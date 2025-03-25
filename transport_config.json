@@ -1,0 +1,9 @@
+{
+    "staff_hourly_rate": 30.0,
+    "annual_fixed_costs": 77167.8,
+    "annual_rides": 862,
+    "floor_surcharge": 200.0,
+    "floor_threshold": 3,
+    "traffic_surcharge_percentage": 15.0,
+    "distance_factor": 4.0
+}
